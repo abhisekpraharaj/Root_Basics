@@ -1,27 +1,27 @@
 # Root_Basics
-The PPT file contains information about ROOT Framework and how to use it.
-There are 3 different files in this repository such as "xyz.c", "xyz.root", "xyz.dat".
-The ".c" are code files mainly whereas the".root" files are specific file used in root framework service and ".dat" file data files used to store data.
+There is information in the PPT file about ROOT Framework and how to use it. There are 3 different files in this repository, such as "xyz.c", "xyz.root", and "xyz.dat". ".c" files are mostly code files, while ".root" files are special files used in the root framework service and ".dat" files are used to store data.
 
-The following .c or code files are here to describe the code file-
-errgr.c- drawing the graph with error bar
+Here are some.c or code files that explain the code file:
+errgr.c: drawing the graph with an error bar
 
-gittut4.c- To define 2 user Defined Functions
+gittut4.c: To define two user-defined functions
 
-Histobin.c- Draw a histogram with 200 bins and finding the bin with maximum content.
+Histobin.c: Make a graph with 200 bins and find the one with the most data.
 
-tut4.c- Drawing a graph using a predefined data file.(data2.txt)
+tut4.c: Use a prepared data file to draw a graph.(data2.txt)
 
-tut20.c- graph plot with error bars.
+tut20.c is a plot of a curve with error bars.
 
-tut111.c- creating an root file putting a histogram into it.
+tut111.c shows how to make a root file and put a histogram in it.
 
-tut67.c- reading that histogram from that tree file declared in tut111.
+tut67.c: This histogram is read from the tree file that was stated in tut111.
 
-twodhist.c-Creating an 2distogram.
+twodist.c: Making a 2d Histogram.
 
-trex1.c-Creatinga Root file , creating a tree file inside it and assigning branch and values to the tree.
+trex1.c: Making a Root file, making a Tree file inside it, and giving the Tree branches and assigning values in that branches.
 
-readtree.c- Reading the above declared tree file in trex1.c.
+readtree.c: Reads the tree file that was defined in trex1.c.
 
-paci1.root , paci_2.root, paci_3.root, paci_4.root, paci_5.root are the root file which contains data files and values of ._peru_1_Ge10.dat,      ._peru_1_Ge11.dat,  ._peru_1_NaI.dat,  ._QA_Ge10.dat,  _QA_Ge11.dat  files respectively.
+The paci1.root , paci_2.root, paci_3.root, paci_4.root, paci_5.root files includes the data files and values of the._peru_1_Ge10.dat,._peru_1_Ge11.dat,._peru_1_NaI.dat,._QA_Ge10.dat, and._QA_Ge11.dat files.
+
+
