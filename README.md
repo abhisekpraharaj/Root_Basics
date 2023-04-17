@@ -24,4 +24,4 @@ readtree.c: Reads the tree file that was defined in trex1.c.
 
 The paci1.root , paci_2.root, paci_3.root, paci_4.root, paci_5.root files includes the data files and values of the._peru_1_Ge10.dat,._peru_1_Ge11.dat,._peru_1_NaI.dat,._QA_Ge10.dat, and._QA_Ge11.dat files.
 
-
+To clear out a lot of confusion and doubts I am going to drop a video with detailed description about the codes and ppt. Will update it soooooon......
